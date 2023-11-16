@@ -79,9 +79,9 @@ has_children: true
 
 ## STEP2 : 各種センサを起動する
 選択したセンサによってデバイスの起動方法が若干異なる為、それぞれのセンサごとの起動の仕方を別ページにまとめました。クリックした先のガイドに従ってください↓
-- [環境センサの起動の仕方]()
-- [光センサの起動の仕方]()
-- [音量または傾きセンサの起動の仕方]()
+- [環境センサの起動の仕方](https://fablabsendai.github.io/iotws2023/power-on/03-01-env3.html)
+- [光センサの起動の仕方](https://fablabsendai.github.io/iotws2023/power-on/03-02-dlight.html)
+- [音量または傾きセンサの起動の仕方](https://fablabsendai.github.io/iotws2023/power-on/03-03-mic-tilt.html)
 
 ちゃんとセンサは動き始めましたか？
 次の章では、インターネットへアップロードした測定値の見方を解説します。

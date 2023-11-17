@@ -1,7 +1,7 @@
 ---
 layout: default
 title: サンプルコード（傾きセンサ）
-parent: セットアップ(上級者向け)
+parent: セットアップ - 上級者向け
 nav_order: 4
 ---
 

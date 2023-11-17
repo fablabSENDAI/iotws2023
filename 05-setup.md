@@ -1,6 +1,6 @@
 ---
 layout: default
-title: セットアップ（上級者向け）
+title: セットアップ - 上級者向け
 nav_order: 6
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: サンプルコード（環境センサ）
-parent: セットアップ(上級者向け)
+parent: セットアップ - 上級者向け
 nav_order: 1
 ---
 

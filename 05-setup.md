@@ -75,10 +75,10 @@ M5StickCPlusは、ArduinoIDEからプログラムを書き込むことが出来�
 
 各センサのプログラムについては、以下のリンクを参照してください。
 
-- [環境センサ]()
-- [光センサ]()
-- [音量センサ]()
-- [傾きセンサ]()
+- [環境センサ](https://fablabsendai.github.io/iotws2023/setup/05-01-env3-code.html)
+- [光センサ](https://fablabsendai.github.io/iotws2023/setup/05-02-dlight-code.html)
+- [音量センサ](https://fablabsendai.github.io/iotws2023/setup/05-03-mic-code.html)
+- [傾きセンサ](https://fablabsendai.github.io/iotws2023/setup/05-04-tilt-code.html)
 
 なお、[M5StcikCPlus](https://www.switch-science.com/catalog/6470/)、および各種センサーは[SwitchScience](https://www.switch-science.com/)から購入しました。
 

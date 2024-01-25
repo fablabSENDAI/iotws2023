@@ -60,6 +60,12 @@ nav_order: 7
 > https://www.switch-science.com/products/7985?_pos=2&_sid=268fd641e&_ss=r
 
 
+## M5Stick Plusの使い方を学びたいです。
+
+WEB上にいくつかチュートリアルページがありますが、
+個人的にはこのサイトがおススメです↓
+[M5StickC PLUSでArduinoをはじめよう！](https://101010.fun/iot/m5stickc-plus-firststep.html)
+
 ## ＩｏＴで〇〇がやりたいが、できますか？
 > 本セミナーはごく基礎的な内容を扱います。<br>
 > 具体的な活用対象がある場合は、応用セミナーの受講を推奨します。<br>
